@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63097952101",
+    "project_id": "sunera-69219",
+    "storage_bucket": "sunera-69219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63097952101:android:67506bc203d9d7d095738c",
+        "android_client_info": {
+          "package_name": "com.sunera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63097952101-3lkc3p2mei81g67mjd7kot5lvnrfndfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-aWuTrIJXMNwfQ6vJH5geOqOw38slHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63097952101-3lkc3p2mei81g67mjd7kot5lvnrfndfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
